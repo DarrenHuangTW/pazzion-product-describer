@@ -1,0 +1,9 @@
+First, carefully examine the following:
+
+<product_title>
+{{PRODUCT_TITLE}}
+</product_title>
+
+<generated_description>
+{{GENERATED_DESCRIPTION}}
+</generated_description>

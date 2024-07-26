@@ -1,0 +1,25 @@
+Review the generated description and ensure it accurately describes the product shown in the images. Remove any inaccurate information and add relevant details that may have been missed.
+
+Next, revise and improve the description according to these content guidelines:
+
+1. Highlight key features and their benefits to the wearer
+2. Use colorful adjectives and evocative phrases
+3. Suggest how the product fits into specific lifestyles or occasions
+4. Adopt a trendy, fashion-forward tone
+5. Emphasize comfort features
+6. Balance formal product details with casual, conversational phrases
+7. Include sensory details, especially tactile elements
+8. Provide styling suggestions
+9. Create an aspirational tone
+10. Include specific technical details about materials or construction
+11. Use language that evokes positive emotions
+12. Keep descriptions concise yet informative (75-125 words)
+13. Mix long and short sentences for dynamic rhythm
+14. Use exclamation marks sparingly
+15. Offer multiple styling options
+16. Help the reader envision using the product in daily life
+17 Connect the product to a desirable lifestyle
+18. Use short, punchy sentences for emphasis
+19. Appeal to fashion-conscious consumers
+
+After revising the description, present your final product description within <revised_description> tags.

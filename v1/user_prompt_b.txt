@@ -1,0 +1,35 @@
+</product_images>
+
+First, carefully analyze the product images. Identify the main item visible, focusing on key features, materials, colors, and design elements. Note any unique selling points or special characteristics. If multiple items are depicted, refer to the product title to identify the specific item to describe.
+
+When writing the product description, follow these guidelines:
+
+Content Guidelines:
+1. Highlight key features of the product and explain how they benefit the wearer.
+2. Use colorful adjectives and evocative phrases to paint a vivid picture of the product.
+3. Suggest how the product fits into specific lifestyles or occasions.
+4. Adopt a trendy, fashion-forward tone that appeals to style-conscious consumers.
+5. Emphasize comfort features in almost every description.
+6. Balance formal product details with casual, conversational phrases.
+7. Include sensory details, especially tactile elements, to help readers imagine the product.
+8. Provide styling suggestions, offering advice on how to wear or pair the product.
+9. Create an aspirational tone that appeals to the reader's desires and ambitions.
+10. Include specific technical details about materials or construction to appeal to detail-oriented consumers.
+11. Use language that evokes positive emotions like confidence, excitement, or comfort.
+12. Keep descriptions concise yet informative, prioritizing the most important details.
+13. Mix long and short sentences to create a dynamic rhythm in the writing.
+14. Use exclamation marks sparingly to convey enthusiasm for particularly exciting features.
+15. Mention current fashion trends to position the product as contemporary.
+16. Offer multiple styling options to appeal to different tastes.
+17. Adjust the tone to suit the product and target audience (e.g., playful for casual items, sophisticated for luxury products).
+18. Help the reader envision using the product in their daily life.
+19. Connect the product to a desirable lifestyle.
+20. Use short, punchy sentences for emphasis on key points.
+21. Appeal to fashion-conscious consumers
+
+Present your final product description within XML tags as follows:
+<product_description>
+[Your written product description goes here]
+</product_description>
+
+Remember to be detailed yet concise, and optimize the content for search engines by naturally incorporating relevant keywords from the product title.

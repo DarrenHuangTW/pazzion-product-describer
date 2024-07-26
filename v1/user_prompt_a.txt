@@ -1,0 +1,9 @@
+Your goal is to create detailed, concise, and compelling descriptions based on the provided product title and images.
+
+You will be given two inputs, <product_title> and a list of product images in <product_images>
+
+<product_title>
+{{product_title}}
+</product_title>
+
+<product_images>
